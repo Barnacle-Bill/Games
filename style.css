@@ -23,7 +23,12 @@ p {
 
 }
 
+.useful-links {
 
+  width: 600px;
+  display: inline-block;
+  
+}
 
 .links {
 font-size: 30px;
