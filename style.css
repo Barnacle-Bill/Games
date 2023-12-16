@@ -30,6 +30,12 @@ p {
   
 }
 
+.meter {
+
+  width: 600px;
+  
+}
+
 .links {
 font-size: 30px;
 margin-left: 20px;
