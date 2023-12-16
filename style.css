@@ -20,6 +20,8 @@ p {
 
   width: 300px;
   display: inline-block;
+  vertical-align: top;
+  margin-right: 15px;
 
 }
 
@@ -28,7 +30,7 @@ p {
   width: 600px;
   display: inline-block;
   vertical-align: top;
-  
+
 }
 
 
