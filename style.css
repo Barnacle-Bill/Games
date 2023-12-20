@@ -136,16 +136,14 @@ p {
   font-style: italic;
 }
 
+.grid {
 
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  column-width: 300px;
+  column-gap: 20px;
 
-.builds {
-  font-size: 30px;
-  margin-left: 20px;
-  font-weight: bold;
-  font-style: italic;
 }
-
-
 
 .gw2-stuff {
 
@@ -158,6 +156,16 @@ p {
   position: relative;
 
 }
+
+
+.builds {
+  font-size: 30px;
+  margin-left: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+
 
 .useful-links {
 
