@@ -142,6 +142,8 @@ p {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   column-width: 300px;
   column-gap: 20px;
+  align-self: start;
+  
 
 }
 
