@@ -155,7 +155,7 @@ p {
   margin-right: 15px;
   color: rgb(139, 177, 233);
   z-index: 1;
-  position: relative;
+
 
 }
 
@@ -176,7 +176,6 @@ p {
   vertical-align: top;
   color: rgb(139, 177, 233);
   z-index: 1;
-  position: relative;
 
 
 }
